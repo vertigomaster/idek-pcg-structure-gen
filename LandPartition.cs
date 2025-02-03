@@ -2,5 +2,5 @@ using IDEK.PCG.Core;
 
 namespace IDEK.PCG.StructureGen.Core
 {
-    public class LandPartition : Element { }
+    public class LandPartition : IProceduralElement { }
 }

@@ -2,5 +2,5 @@
 
 namespace IDEK.PCG.StructureGen.Core
 {
-    public class Floor : Element { }
+    public class Floor : IProceduralElement { }
 }
