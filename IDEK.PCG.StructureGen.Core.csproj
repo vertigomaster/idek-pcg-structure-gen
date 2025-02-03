@@ -5,4 +5,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\IDEK.PCG.Core\IDEK.PCG.Core.csproj" />
+    </ItemGroup>
+
 </Project>
